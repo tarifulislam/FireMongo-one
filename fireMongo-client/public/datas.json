@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/GsWJJ2F/Rectangle-2-2.png",
+      "title": "Introduction to C Programming",
+      "details": "Learn the fundamentals of C, a versatile programming language used for system development and more.",
+      "duration": 1,
+      "price": 15000
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/8cb83YN/Rectangle-2-3.png",
+      "title": "Introduction to Algorithms",
+      "details": "Explore essential algorithms and data structures crucial for problem-solving in diverse applications.",
+      "duration": 2,
+      "price": 25000
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/Z8ydzdW/Rectangle-2-4.png",
+      "title": "Introduction to C++ for DSA",
+      "details": "Delve into C++ essentials tailored for mastering data structures and algorithms.",
+      "duration": 10,
+      "price": 10000
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/Pm1Gx16/Rectangle-3.png",
+      "title": "Basic Data Structures",
+      "details": "Build a strong foundation by studying arrays, linked lists, trees, and other fundamental data structures.",
+      "duration": 5,
+      "price": 35000
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/3rV44D7/Rectangle-2.png",
+      "title": "Introduction to OOP Python",
+      "details": "Discover Python's object-oriented programming principles to create efficient and organized code.",
+      "duration": 5,
+      "price": 19000
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ibb.co/6FRKMtR/Rectangle-2-5.png",
+      "title": "Software Engineering",
+      "details": "Gain expertise in software development methodologies and best practices for creating reliable, scalable applications.",
+      "duration": 2,
+      "price": 23000
+    },
+    {
+      "id": 7,
+      "cover": "https://i.ibb.co/Ch6Y4j4/Rectangle-3-1.png",
+      "title": "AWS, Cloud Computing",
+      "details": "Learn about the leading cloud computing platform, AWS, for scalable, secure, and flexible cloud solutions.",
+      "duration": 5,
+      "price": 35000
+    },
+    {
+      "id": 8,
+      "cover": "https://i.ibb.co/hgpjb5G/Rectangle-2-1.png",
+      "title": "Database (MySQL)",
+      "details": "Master MySQL for robust database management, SQL querying, and data-driven applications.",
+      "duration": 5,
+      "price": 19000
+    },
+    {
+      "id": 9,
+      "cover": "https://i.ibb.co/bm386d3/Rectangle-2-6.png",
+      "title": "Problem-Solving Part",
+      "details": "Enhance analytical skills for tackling complex challenges through algorithmic problem-solving techniques.",
+      "duration": 2,
+      "price": 23000
+    }
+  ]
+  
